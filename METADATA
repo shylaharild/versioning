@@ -1,5 +1,5 @@
 [meta]
-version = 0.2.0-sis4
+version = 0.2.0-sis5
 long_name = DevOps Versioning
 description = Versioning of the DevOps Repo
 name = devops-aws
